@@ -3,8 +3,8 @@ main: ifteam\SnowHalation\SnowHalation
 version: 1.8-alpha
 author: hm
 api:
-- 1.13.0
-- 1.14.0
+- 1.15.0
+- 1.16.0
 - 2.0.0
 - 2.1.0
 - 3.0.0
